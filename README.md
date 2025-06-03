@@ -1,6 +1,9 @@
+
+
 <h1 align="center">Hi 👋, I'm Yahya Sharif</h1>
 <h3 align="center">A passionate Data Analyst/Scientist from Pakistan</h3>
-
+<img align="right" alt= "coding" width="400" src="![image](https://github.com/user-attachments/assets/efc34183-d0b1-4e95-a006-47f8d5af70c0)
+">
 - 🔭 I’m currently working on **learning Object Detection**
 
 - 🌱 I’m currently learning **Python, SQL**
